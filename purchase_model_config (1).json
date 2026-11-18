@@ -1,9 +1,0 @@
-{
-    "threshold": 0.35,
-    "accuracy": 0.8909164639091647,
-    "purchase_precision": 0.6374695863746959,
-    "purchase_recall": 0.6858638743455497,
-    "purchase_f1_score": 0.6607818411097099,
-    "roc_auc": 0.9194360422465859,
-    "average_precision": 0.7213641745826647
-}
